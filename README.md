@@ -8,7 +8,7 @@ Le script lit un fichier CSV contenant les colonnes suivantes :
 - Prenom
 - Nom
 - Username
-- 
+
 Pour chaque ligne du fichier :
 - Il génère le SamAccountName et le UserPrincipalName
 - Il crée l'utilisateur dans l'OU définie
