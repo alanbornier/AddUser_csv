@@ -22,7 +22,7 @@ Pour chaque ligne du fichier :
 - Alice,Dupont,adupont
 - Bob,Martin,bmartin
 - Claire,Durand,cdurand
-- 
+  
 ✏️ Paramètres personnalisables
 - $CSVPath : chemin vers le fichier CSV
 - $OU : chemin LDAP complet de l’unité d’organisation cible
