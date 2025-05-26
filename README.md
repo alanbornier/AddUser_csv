@@ -32,3 +32,4 @@ Pour chaque ligne du fichier :
 - Le script suppose que le module ActiveDirectory est installé et disponible
 - Les noms d’utilisateur (SamAccountName) doivent être uniques
 - Pensez à forcer la réinitialisation du mot de passe à la première connexion si nécessaire (-ChangePasswordAtLogon $true)
+- Dans l'exemple le fichier CSV est situé dans le dossier U sur C:
